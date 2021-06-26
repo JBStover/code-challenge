@@ -1,3 +1,9 @@
+/*
+ * Code Challenge Submission
+ *
+ * @author Jason Stover
+ */
+
 const findSum = function(array) {
     // your code here - don't forget to return a number!
     let testArray = array;
