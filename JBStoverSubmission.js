@@ -14,6 +14,12 @@ const findSum = function(array) {
   
   const findFrequency = function(array) {
     // your code here - don't forget to return an object!
+    let tempChar = array[1];
+    let object = {
+        most: tempChar,
+        least: tempChar - 1
+    }
+    return object;
   };
   
   
