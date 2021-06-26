@@ -1,9 +1,3 @@
-/*
- * Code Challenge Submission
- *
- * @author Jason Stover
- */
-
 const findSum = function(array) {
     // your code here - don't forget to return a number!
     let testArray = array;
@@ -17,11 +11,11 @@ const findSum = function(array) {
 
   };
   
-  /*
+  
   const findFrequency = function(array) {
     // your code here - don't forget to return an object!
   };
-  */
+  
   
   const isPalindrome = function(str) {
     // your code here - don't forget to return a boolean!
@@ -135,13 +129,3 @@ const findSum = function(array) {
     
 
   }; 
-  /*
-  console.log(findSum([2, 4, 6]));  
-  console.log(isPalindrome('anabelle'));
-  console.log(largestPair([5, 1, 2, 3, 1, 4])); // 6
-  console.log(largestPair([15, 5, 1, 2, 24, -1, -48])); // 50
-  console.log(removeParenth('ido(not)liketocode')); // 'idoliketocode'
-  console.log(scoreScrabble('hello')); // 8
-  console.log(scoreScrabble('quiet')); // 14
-  */
-  
